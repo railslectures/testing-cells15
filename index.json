@@ -10,6 +10,11 @@
       "title": "Add the library reference to a .NET project via NuGet before implementing merge logic."
     },
     {
+      "category": "workbook-merger",
+      "file": "create-a-console-application-project-in-visual-studio-to-host-the-workbook-merging-code.cs",
+      "title": "Create a console application project in Visual Studio to host the workbook merging code."
+    },
+    {
       "category": "working-with-images",
       "file": "convert-a-worksheet-from-an-xlsx-workbook-into-an-image-format-preserving-visual-fidelity.cs",
       "title": "Convert a worksheet from an XLSX workbook into an image format, preserving visual fidelity."
