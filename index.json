@@ -6,6 +6,11 @@
   "examples": [
     {
       "category": "working-with-images",
+      "file": "convert-a-worksheet-from-an-xlsx-workbook-into-an-image-format-preserving-visual-fidelity.cs",
+      "title": "Convert a worksheet from an XLSX workbook into an image format, preserving visual fidelity."
+    },
+    {
+      "category": "working-with-images",
       "file": "transform-an-xlsx-workbook-into-a-tiff-image-while-maintaining-visual-fidelity-and-page-layout.cs",
       "title": "Transform an XLSX workbook into a TIFF image while maintaining visual fidelity and page layout."
     }
