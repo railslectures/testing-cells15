@@ -5,6 +5,11 @@
   "framework": ".NET",
   "examples": [
     {
+      "category": "comments-and-notes",
+      "file": "remove-threaded-comments-in-a-workbook-loaded-in-xlsx-format.cs",
+      "title": "Remove Threaded Comments in a workbook loaded in XLSX format."
+    },
+    {
       "category": "workbook-merger",
       "file": "add-the-library-reference-to-a-net-project-via-nuget-before-implementing-merge-logic.cs",
       "title": "Add the library reference to a .NET project via NuGet before implementing merge logic."
