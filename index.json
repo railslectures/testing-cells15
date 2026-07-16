@@ -5,6 +5,11 @@
   "framework": ".NET",
   "examples": [
     {
+      "category": "workbook-merger",
+      "file": "add-the-library-reference-to-a-net-project-via-nuget-before-implementing-merge-logic.cs",
+      "title": "Add the library reference to a .NET project via NuGet before implementing merge logic."
+    },
+    {
       "category": "working-with-images",
       "file": "convert-a-worksheet-from-an-xlsx-workbook-into-an-image-format-preserving-visual-fidelity.cs",
       "title": "Convert a worksheet from an XLSX workbook into an image format, preserving visual fidelity."
