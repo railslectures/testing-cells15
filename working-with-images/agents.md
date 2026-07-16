@@ -55,3 +55,4 @@ Examples may generate:
 
 Output files are written to the working directory.
 - transform-an-xlsx-workbook-into-a-tiff-image-while-maintaining-visual-fidelity-and-page-layout.cs
+- convert-a-worksheet-from-an-xlsx-workbook-into-an-image-format-preserving-visual-fidelity.cs
